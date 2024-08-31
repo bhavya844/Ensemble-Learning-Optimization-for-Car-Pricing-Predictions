@@ -17,7 +17,7 @@ This project involves building an focusing on preprocessing, feature selection, 
 6. [Model Interpretation](#model-interpretation)
 7. [Conclusion](#conclusion)
 8. [Requirements](#requirements)
-9. [Usage](#usage)
+
 
 ## Preprocessing & EDA
 
